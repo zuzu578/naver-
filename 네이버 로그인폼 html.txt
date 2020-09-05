@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width">
+
+    <title>repl.it</title>
+
+    <link href="style.css" rel="stylesheet" type="text/css" />
+
+  </head>
+
+  <body>
+
+    <div class="select-box">
+
+      <select name="language">
+
+      <option value="">한국어</option>
+
+      <option value="학생">English</option>
+
+      <option value="회사원">chinese</option>
+
+      <option value="기타">japanese</option>
+
+        </select>
+
+        </div>
+
+ 
+
+    <div class="log-in-form">
+
+      <p><img src="https://mblogthumb-phinf.pstatic.net/20160622_73/hhtthh82_1466581509899OrBaG_PNG/%B3%D7%C0%CC%B9%F6-%B7%CE%B0%ED-%B0%ED%C8%AD%C1%FA.png?type=w800"width="270" height="130"></p>
+
+   
+
+    <div class="id-box">
+
+      <div class="id">
+
+        <input type="text" placeholder="아이디">
+
+      
+
+    </div>
+
+      <div class="password">
+
+        <input type="text" placeholder="비밀번호">
+
+      </div>
+
+      <div class="log-in-button-box">
+
+        <div class="log-in-button">로그인</div>
+
+      </div>
+
+    </div>
+
+    <div class="log-in-keep-box">
+
+      <div class="log-in-keep">
+
+        <input type="checkbox" >로그인 상태유지
+
+      </div>
+
+      <div class="IP-box">
+
+        <div class="ip"><a href="">IP 보안 OFF</a></div>
+
+      </div>
+
+      <div class="under-line-box">
+
+        <div class="line" >  </div>
+
+      </div>
+
+    </div>
+
+    </div>
+
+ 
+
+      <div class="convinience-login-box">
+
+        <div class="convinience-login-title">
+
+          더욱 간편한 로그인 
+
+        </div>
+
+        <div class="QR-log-in-box">
+
+          <div class="qr-log-in"><a href="">QR코드 로그인</a></div>
+
+        </div>
+
+        <div class="numer-log-in-box">
+
+          <div class="numer-log-in"> <a href="">일회용 번호 로그인</a></div>
+
+        </div>
+
+      </div>
+
+ 
+
+      <div class="account-information-box">
+
+        <div class="find-id-box">
+
+          <div class="find-id"><a href="">아이디 찾기</a> </div>
+
+        </div>
+
+        <div class="find-password-box">
+
+          <div class="find-password"><a href="">비밀번호 찾기</a></div>
+
+        </div>
+
+        <div class="sign-up-box">
+
+          <div class="sign-up"><a href="">회원가입</a></div>
+
+        </div>
+
+      </div>
+
+      
+
+       
+
+<div class="under-container-box">
+
+  <div class="under-container-items"><a href=""> 이용약관</a></div>
+
+  <div class="under-container-items"><a href="">개인정보처리방침</a></div>
+
+  <div class="under-container-items"><a href="">책임의  한계와법적고지</a></div>
+
+  <div class="under-container-items"><a href="">회원정보 고객센터</a></div>
+
+</div>
+
+ 
+
+ 
+
+</div>
+
+  <div class="under-information-contianer-box">
+
+  <div class="under-infor">NAVER Copyright</div>
+
+  <div class="under-infor">NAVER Corp </div>
+
+    <div class="under-infor">All Rights Reserved</div>
+
+  </div>
+
+    
+
+ 
+
+  
+
+  </body>
+
+</html>

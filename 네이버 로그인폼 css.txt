@@ -1,0 +1,332 @@
+
+ 
+
+body{
+
+  margin:0%;
+
+}
+
+ 
+
+ 
+
+.select-box{
+
+ 
+
+  text-align:right;
+
+  margin-right: 400px;
+
+  position: relative;
+
+  top: 70px;
+
+}
+
+a{
+
+  text-decoration: none;
+
+  color: gray;
+
+}
+
+p{
+
+  position: relative;
+
+  top:40px;
+
+}
+
+ 
+
+.log-in-form{
+
+  
+
+  text-align:center;
+
+  margin-top:9%; 
+
+}
+
+.logo-items{
+
+  font-size: 80px;
+
+  color:#56ba49;
+
+  font-weight: bold;
+
+}
+
+.id-box{
+
+  margin-top:3%;
+
+  
+
+  
+
+}
+
+input[type=text]{
+
+  border:0;
+
+  text-align:left;
+
+  float: left;
+
+  outline: none;
+
+ width:450px;
+
+ height: 40px;
+
+ padding: 4px;
+
+}
+
+.id{
+
+  border:1px solid gray;
+
+  height:48px;
+
+  width:460px;
+
+  margin-left: 490px;
+
+}
+
+.password{
+
+  margin-top:1%;
+
+  border: 1px solid gray;
+
+  height: 48px;
+
+  width: 460px;
+
+  margin-left: 490px;
+
+}
+
+.log-in-button-box{
+
+  margin-top:1%;
+
+  border:1px solid #56ba49;
+
+  height:56px;
+
+  width:460px;
+
+  background-color:#56ba49;
+
+  margin-left: 34%;
+
+}
+
+.log-in-button{
+
+  color:white;
+
+  padding:4%;
+
+}
+
+.log-in-keep-box{
+
+  margin-top:2%;
+
+  margin-right:24%;
+
+  
+
+  
+
+}
+
+ 
+
+ 
+
+.under-line-box{
+
+  border-bottom:1px solid gray;
+
+  margin-left: 45%;
+
+  margin-right: 13%;
+
+}
+
+.IP-box{
+
+  margin-left: 67%;
+
+  position: relative;
+
+  bottom:18px;
+
+}
+
+.convinience-login-box{
+
+  text-align: center;
+
+  margin-top:3%;
+
+}
+
+.convinience-login-title{
+
+  font-size: 30px;
+
+  font-weight: bold;
+
+}
+
+.QR-log-in-box{
+
+  border:1px solid #1cba95;
+
+  margin-top:3%;
+
+  width:226px;
+
+  height:56px;
+
+  margin-left:500px;
+
+}
+
+ 
+
+ .qr-log-in{
+
+   padding:9%;
+
+   font-weight:bold;
+
+ 
+
+ }
+
+ 
+
+ 
+
+ 
+
+ 
+
+.numer-log-in-box{
+
+  border:1px solid #1cba95;
+
+  margin-top:3%;
+
+  width:226px;
+
+  height:56px;
+
+  margin-left:740px;
+
+  position: relative;
+
+  bottom:101px;
+
+ 
+
+}
+
+.numer-log-in{
+
+  padding:9%;
+
+  font-weight: bold;
+
+}
+
+.account-information-box{
+
+  display: flex;
+
+  margin-left: 42%;
+
+  position: relative;
+
+  bottom:70px;
+
+  
+
+}
+
+ 
+
+.find-password{
+
+margin-left:20px;
+
+}
+
+ 
+
+.sign-up{
+
+  margin-left: 20px;
+
+}
+
+ 
+
+.under-container-box{
+
+  text-align: center;
+
+}
+
+ 
+
+.under-container-items{
+
+ 
+
+display: inline;
+
+position: relative;
+
+top: 40px;
+
+padding:1%;
+
+ 
+
+}
+
+ 
+
+.under-information-contianer-box{
+
+  display: flex;
+
+  margin-top:4%;
+
+  margin-left:38%;
+
+}
+
+ 
+
+.under-infor{
+
+  font-size:15px;
+
+}
